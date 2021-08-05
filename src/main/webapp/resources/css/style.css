@@ -1,0 +1,11 @@
+
+.campos-lab{
+    font-weight:bold !important;
+}
+.centralizar-campos{
+	display: flex; 
+	justify-content: center; 
+	align-items: center;
+	height: 200px;
+	margin-top: 10%
+}
